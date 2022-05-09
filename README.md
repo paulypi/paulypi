@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm paulypi</h1>
 <h3>And im starting my learning journey</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/paulypi/sudokuToPdf">**sudokuToPdf**</a>
+- 🔭 I’m currently working on <a href="https://github.com/paulypi/portfolio-app">**portfolio-app**</a>
 
 - 🌱 I’m currently learning **Database and SQL | Python | JavaScript | HTML | CSS**
 

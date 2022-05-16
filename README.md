@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/paulypi/portfolio-app">**portfolio-app**</a>
 
-- 🌱 I’m currently learning **Database and SQL | Python | JavaScript | HTML | CSS**
+- 🌱 I’m currently learning **Shell scripting | Database and SQL | Python | JavaScript | HTML | CSS**
 
 - ⚡ Fun fact **Start | loving | learning**
 

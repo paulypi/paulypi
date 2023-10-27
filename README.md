@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm paulypi</h1>
-<h3>And im starting my learning journey</h3>
+<h3>on a new learning journey</h3>
 
-- 🔭 I’m currently working on personal ETL project
+- 🔭 Working on a personal project
 
-- 🌱 I’m currently learning **Shell scripting | Database and SQL | Python | JavaScript | HTML | CSS**
+- 🌱 Currently focused on **Python**
 
-- ⚡ Fun fact **Start | loving | learning**
+- ⚡ Learning Git and GitHub
 
 <h3>Languages and Tools:</h3>
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.fr/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="django" width="40" height="40"/> </a> 
